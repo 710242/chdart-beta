@@ -1,0 +1,8 @@
+1. try to make return condition's cond2 to left and test the performance
+2. try to auto arrange the end widget
+3. try to implement collector widget
+4. try to make TextStyle fit in drawing canvas
+5. limit canvas size by parent widget
+
+complete:
+4
